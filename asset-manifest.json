@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce221431.css",
+    "main.js": "/static/js/main.36777631.js",
+    "static/media/TestImg.png": "/static/media/TestImg.f176a0f213ac27b1640c.png",
+    "static/media/Yonalishimg.png": "/static/media/Yonalishimg.3ea3f6e057b7e5e0cb87.png",
+    "static/media/Mainimg.png": "/static/media/Mainimg.63ac26e21a6caed01aad.png",
+    "static/media/bizimg1.png": "/static/media/bizimg1.54455c6260e11dbbd02d.png",
+    "static/media/bizimg3.png": "/static/media/bizimg3.216f4dc5f8dbe86ad343.png",
+    "static/media/bizimg2.png": "/static/media/bizimg2.f8033a0a702d682dfdcd.png",
+    "static/media/cybersekurity.png": "/static/media/cybersekurity.9f1e609245ef16bdd138.png",
+    "static/media/trading.png": "/static/media/trading.78e905509d341981f79f.png",
+    "static/media/english.png": "/static/media/english.debf67a0ebb24bfdcba6.png",
+    "static/media/backend.png": "/static/media/backend.c3eacc035264368f3a6d.png",
+    "static/media/graphigdesign.png": "/static/media/graphigdesign.924ac4ea49c06b86fb9e.png",
+    "static/media/android.png": "/static/media/android.e4584b78e97398bfc281.png",
+    "static/media/SMM.png": "/static/media/SMM.7713933ad21bc8bc6129.png",
+    "static/media/savodxonlig.png": "/static/media/savodxonlig.0369c218f7dfc6e953ed.png",
+    "static/media/frontend.png": "/static/media/frontend.3603bfdc0b9acd934bb5.png",
+    "index.html": "/index.html",
+    "main.ce221431.css.map": "/static/css/main.ce221431.css.map",
+    "main.36777631.js.map": "/static/js/main.36777631.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce221431.css",
+    "static/js/main.36777631.js"
+  ]
+}
